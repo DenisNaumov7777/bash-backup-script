@@ -1,0 +1,17 @@
+
+---
+
+## .gitignore 
+
+```gitignore
+# Generated backup archives
+*.tar.gz
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
