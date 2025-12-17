@@ -62,9 +62,8 @@ The archive will contain only files that were modified in the last 24 hours.
 
 ## Author
 
-Created by Denis Naumov as part of a Linux/Bash scripting course.
+Created by **Denis Naumov** as part of a Linux/Bash scripting course.
 
-````
 
 
 
